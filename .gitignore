@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual Environments
+env/
+venv/
+
+# PyCharm
+.idea/
+
+# Databases
+*.sqlite
+*.sqlite3
